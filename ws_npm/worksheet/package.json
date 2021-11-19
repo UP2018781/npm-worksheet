@@ -1,0 +1,15 @@
+{
+  "name": "worksheet",
+  "version": "1.0.0",
+  "description": "Store your worksheet files in this folder.",
+  "main": "utility.js",
+  "dependencies": {
+    "underscore": "^1.13.1",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
